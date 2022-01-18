@@ -1,0 +1,25 @@
+header .user {
+    background-color: black !important;
+    opacity: 0.75;
+    font-weight: bold;
+}
+
+header .user .navbar-nav {
+    margin-left: auto;
+}
+
+header .user .navbar-nav .nav-item {
+    padding: 0rem 1rem;
+}
+
+header .user .navbar-brand {
+    margin-left: 1rem;
+}
+
+header .user .navbar-toggler {
+    background-color: rgb(173, 31, 31);
+    border: none;
+}
+.carousel .carousel-caption {
+    font-weight: bold;
+}
